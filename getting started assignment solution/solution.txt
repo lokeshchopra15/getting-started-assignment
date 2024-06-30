@@ -1,0 +1,20 @@
+Getting Started 
+Assignment solutions
+
+Ans1. We start learning a programming language by writing Hello World because it is a universal standard greetings to everyone that can be understood by each and every person 
+present on this planet. Also with this the Hello World program can provide you with the basic knowledge of the syntax of the programming language and the basic structure of 
+it. The term Hello World has been used for decades and it is used till today by convention. The Phrase Hello World can be set to an introduction to the people learning that 
+programming language.
+
+Ans2. There are some details that need not to get compiled therefore they are put into the comments. These comments cannot be compiled and can be visible to the programmer 
+in order to provide the proper details of that logic. In Html we also have features of commands and it can be used as follows: 
+<! - - <h1>Heading</h1> - - >
+
+Ans3. Element: An element consists of opening tag closing tag and content present in it. For Eg.
+<h1> my heading </h1>
+Tags: Tags are the basic fundamental unit of HTML. Tags can be defined as the basic structure and semantics of the html they are of two types i.e., closing tag and opening 
+tag. For example <h1> is an opening tag.
+Attributes: Attributes are the additional information for a html element and is written in the opening tag. For eg in anchor tag <a href = “address”> href, here is the 
+attribute.
+
+Ans4. Html entities are used to represent the special symbols and they are written in the unique code. For example, less than symbol is written as &lt.
